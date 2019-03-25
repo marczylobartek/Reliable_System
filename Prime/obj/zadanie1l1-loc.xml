@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 2" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 13" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\poly.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\poly.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\poly.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Horner\src\poly.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Selection\src\selection.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 24" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Selection\src\selection.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 7" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Selection\src\selection.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 5" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 33" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

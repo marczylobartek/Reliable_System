@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 47" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 2" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 18" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

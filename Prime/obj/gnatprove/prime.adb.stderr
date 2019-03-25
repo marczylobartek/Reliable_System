@@ -1,0 +1,7 @@
+prime.adb:9:33: info: loop invariant preservation proved[#3]
+prime.adb:9:33: info: loop invariant initialization proved[#4]
+prime.adb:9:62: info: division check proved[#2]
+prime.adb:11:15: info: division check proved[#6]
+prime.ads:7:10: info: postcondition proved[#5]
+prime.ads:8:32: info: division check proved[#0]
+prime.ads:10:33: info: division check proved[#1]

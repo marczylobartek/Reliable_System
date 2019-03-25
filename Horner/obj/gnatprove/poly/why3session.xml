@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE why3session PUBLIC "-//Why3//proof session v5//EN"
+"http://why3.lri.fr/why3session.dtd">
+<why3session shape_version="4">
+<prover id="0" name="altergo" version="1.30-gnatprove" timelimit="5" steplimit="0" memlimit="0"/>
+<prover id="1" name="Z3" version="4.5.1-gnatprove" timelimit="5" steplimit="0" memlimit="0"/>
+<prover id="2" name="CVC4" version="1.6-gnatprove" timelimit="5" steplimit="0" memlimit="0"/>
+<prover id="3" name="CVC4_CE" version="1.6-gnatprove" timelimit="5" steplimit="0" memlimit="0"/>
+<file name="..\poly.mlw">
+<theory name="Poly__package_def" proved="true">
+ <goal name="WP_parameter def" expl="VC for def" proved="true">
+ <transf name="split_goal_wp_conj" proved="true" >
+ </transf>
+ </goal>
+</theory>
+<theory name="Poly__horner__subprogram_def">
+ <goal name="WP_parameter def" expl="VC for def">
+ <transf name="split_goal_wp_conj" >
+  <goal name="WP_parameter def.0" expl="precondition" proved="true">
+  <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="3986"/></proof>
+  <transf name="split_disj" >
+   <goal name="WP_parameter def.0.0" expl="precondition">
+   <proof prover="0" obsolete="true"><result status="unknown"/></proof>
+   <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+   <proof prover="2" obsolete="true"><result status="unknown" steps="329"/></proof>
+   <proof prover="3" obsolete="true"><result status="unknown" steps="5912"/></proof>
+   </goal>
+   <goal name="WP_parameter def.24.1">
+   <proof prover="1"><result status="failure"/></proof>
+   <proof prover="2"><result status="failure"/></proof>
+   <proof prover="3"><result status="failure"/></proof>
+   </goal>
+  </transf>
+  </goal>
+  <goal name="WP_parameter def.1" expl="precondition" proved="true">
+  <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="63"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="4857"/></proof>
+  </goal>
+  <goal name="WP_parameter def.2" expl="precondition" proved="true">
+  <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="13"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="8137"/></proof>
+  <transf name="split_disj" >
+   <goal name="WP_parameter def.2.0" expl="precondition">
+   <proof prover="2" timelimit="10" obsolete="true"><result status="valid" steps="5"/></proof>
+   <proof prover="3" obsolete="true"><result status="unknown" steps="8218"/></proof>
+   </goal>
+   <goal name="WP_parameter def.25.0">
+   <proof prover="2" timelimit="10"><result status="valid" steps="5"/></proof>
+   <proof prover="3"><result status="failure"/></proof>
+   </goal>
+   <goal name="WP_parameter def.25.2">
+   <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+   <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+   <proof prover="2" timelimit="10"><result status="unknown" steps="92"/></proof>
+   <proof prover="3"><result status="failure"/></proof>
+   </goal>
+   <goal name="WP_parameter def.25.1">
+   <proof prover="2" timelimit="10"><result status="valid" steps="5"/></proof>
+   <proof prover="3"><result status="failure"/></proof>
+   </goal>
+   <goal name="WP_parameter def.23.0">
+   <proof prover="2" timelimit="10"><result status="valid" steps="5"/></proof>
+   </goal>
+  </transf>
+  </goal>
+  <goal name="WP_parameter def.3" expl="precondition" proved="true">
+  <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="7310"/></proof>
+  </goal>
+  <goal name="WP_parameter def.4" expl="precondition">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2" timelimit="1"><result status="timeout"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="242"/></proof>
+  </goal>
+  <goal name="WP_parameter def.5" expl="precondition">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2" timelimit="1"><result status="timeout"/></proof>
+  <proof prover="3"><result status="unknown" steps="8322"/></proof>
+  <transf name="split_disj" >
+   <goal name="WP_parameter def.5.0" expl="precondition">
+   <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+   <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+   <proof prover="2" obsolete="true"><result status="timeout"/></proof>
+   <proof prover="3"><result status="unknown" steps="8322"/></proof>
+   </goal>
+   <goal name="WP_parameter def.29.0">
+   <proof prover="2"><result status="failure"/></proof>
+   <proof prover="3"><result status="failure"/></proof>
+   </goal>
+  </transf>
+  </goal>
+  <goal name="WP_parameter def.6" expl="precondition" proved="true">
+  <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="14537"/></proof>
+  </goal>
+  <goal name="WP_parameter def.7" expl="loop invariant init" proved="true">
+  <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="7250"/></proof>
+  </goal>
+  <goal name="WP_parameter def.8" expl="precondition" proved="true">
+  <proof prover="0" obsolete="true"><result status="unknown"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="13"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="237"/></proof>
+  </goal>
+  <goal name="WP_parameter def.9" expl="precondition" proved="true">
+  <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="6036"/></proof>
+  </goal>
+  <goal name="WP_parameter def.10" expl="precondition">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2" timelimit="1"><result status="timeout"/></proof>
+  <proof prover="3" timelimit="1"><result status="unknown" steps="2691"/></proof>
+  </goal>
+  <goal name="WP_parameter def.11" expl="precondition" proved="true">
+  <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="4850"/></proof>
+  </goal>
+  <goal name="WP_parameter def.12" expl="precondition">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2" timelimit="1"><result status="timeout"/></proof>
+  <proof prover="3" timelimit="1"><result status="unknown" steps="1340"/></proof>
+  </goal>
+  <goal name="WP_parameter def.13" expl="precondition">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2" timelimit="1"><result status="timeout"/></proof>
+  <proof prover="3" timelimit="1"><result status="unknown" steps="1373"/></proof>
+  </goal>
+  <goal name="WP_parameter def.14" expl="precondition" proved="true">
+  <proof prover="0" obsolete="true"><result status="unknown"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="13"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="87"/></proof>
+  </goal>
+  <goal name="WP_parameter def.15" expl="precondition" proved="true">
+  <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="13"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="7863"/></proof>
+  <transf name="split_disj" >
+   <goal name="WP_parameter def.15.0" expl="precondition">
+   <proof prover="0" obsolete="true"><result status="timeout"/></proof>
+   <proof prover="1" obsolete="true"><result status="timeout"/></proof>
+   <proof prover="2" obsolete="true"><result status="timeout"/></proof>
+   <proof prover="3" obsolete="true"><result status="unknown" steps="9073"/></proof>
+   </goal>
+   <goal name="WP_parameter def.31.4">
+   <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+   <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+   <proof prover="2"><result status="failure"/></proof>
+   <proof prover="3"><result status="failure"/></proof>
+   </goal>
+   <goal name="WP_parameter def.31.2">
+   <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+   <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+   <proof prover="2"><result status="failure"/></proof>
+   <proof prover="3"><result status="failure"/></proof>
+   </goal>
+   <goal name="WP_parameter def.31.0">
+   <proof prover="2"><result status="failure"/></proof>
+   <proof prover="3"><result status="failure"/></proof>
+   </goal>
+   <goal name="WP_parameter def.31.3">
+   <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+   <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+   <proof prover="2"><result status="failure"/></proof>
+   <proof prover="3" timelimit="1"><result status="unknown" steps="1187"/></proof>
+   </goal>
+  </transf>
+  </goal>
+  <goal name="WP_parameter def.16" expl="precondition">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2" timelimit="1"><result status="timeout"/></proof>
+  <proof prover="3" timelimit="1"><result status="unknown" steps="1706"/></proof>
+  </goal>
+  <goal name="WP_parameter def.17" expl="precondition">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2" timelimit="1"><result status="timeout"/></proof>
+  <proof prover="3" timelimit="1"><result status="unknown" steps="1698"/></proof>
+  </goal>
+  <goal name="WP_parameter def.18" expl="precondition">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2" timelimit="1"><result status="timeout"/></proof>
+  <proof prover="3" timelimit="1"><result status="unknown" steps="1698"/></proof>
+  </goal>
+  <goal name="WP_parameter def.19" expl="loop invariant preservation" proved="true">
+  <proof prover="0"><result status="valid" steps="267"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="timeout"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="705"/></proof>
+  <transf name="split_disj" >
+   <goal name="WP_parameter def.19.0" expl="loop invariant preservation">
+   <proof prover="2" timelimit="10" obsolete="true"><result status="valid" steps="5"/></proof>
+   </goal>
+   <goal name="WP_parameter def.6.0">
+   <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+   <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+   <proof prover="2" timelimit="10"><result status="unknown" steps="221"/></proof>
+   <proof prover="3" timelimit="10"><result status="unknown" steps="221"/></proof>
+   </goal>
+   <goal name="WP_parameter def.30.0">
+   <proof prover="2" timelimit="10"><result status="failure"/></proof>
+   <proof prover="3"><result status="unknown" steps="256"/></proof>
+   </goal>
+   <goal name="WP_parameter def.30.3">
+   <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+   <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+   <proof prover="2" timelimit="10"><result status="unknown" steps="111"/></proof>
+   <proof prover="3"><result status="unknown" steps="789"/></proof>
+   </goal>
+   <goal name="WP_parameter def.30.2">
+   <proof prover="2" timelimit="10"><result status="failure"/></proof>
+   <proof prover="3"><result status="unknown" steps="238"/></proof>
+   </goal>
+   <goal name="WP_parameter def.30.4">
+   <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+   <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+   <proof prover="2" timelimit="10"><result status="unknown" steps="103"/></proof>
+   </goal>
+   <goal name="WP_parameter def.30.1">
+   <proof prover="2" timelimit="10"><result status="valid" steps="14"/></proof>
+   </goal>
+   <goal name="WP_parameter def.27.0">
+   </goal>
+  </transf>
+  </goal>
+  <goal name="WP_parameter def.20" expl="assertion" proved="true">
+  <proof prover="0"><result status="valid" steps="97"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="timeout"/></proof>
+  <proof prover="3" obsolete="true"><result status="unknown" steps="9210"/></proof>
+  <transf name="split_disj" >
+   <goal name="WP_parameter def.20.0" expl="assertion">
+   <proof prover="3" obsolete="true"><result status="unknown" steps="10726"/></proof>
+   </goal>
+   <goal name="WP_parameter def.20.1" expl="assertion">
+   </goal>
+   <goal name="WP_parameter def.20.2" expl="assertion">
+   </goal>
+  </transf>
+  </goal>
+  <goal name="WP_parameter def.21" expl="postcondition" proved="true">
+  <proof prover="0" timelimit="1" obsolete="true"><result status="unknown"/></proof>
+  <proof prover="1" timelimit="1" obsolete="true"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="13"/></proof>
+  <proof prover="3" timelimit="1" obsolete="true"><result status="unknown" steps="294"/></proof>
+  <transf name="split_disj" >
+   <goal name="WP_parameter def.21.0" expl="postcondition">
+   <proof prover="3" timelimit="1" obsolete="true"><result status="failure"/></proof>
+   </goal>
+   <goal name="WP_parameter def.21.1" expl="postcondition">
+   <proof prover="3" timelimit="1" obsolete="true"><result status="failure"/></proof>
+   </goal>
+   <goal name="WP_parameter def.21.2" expl="postcondition">
+   <proof prover="3" timelimit="1" obsolete="true"><result status="unknown" steps="294"/></proof>
+   </goal>
+   <goal name="WP_parameter def.21.3" expl="postcondition">
+   </goal>
+   <goal name="WP_parameter def.21.4" expl="postcondition">
+   <proof prover="3" timelimit="1" obsolete="true"><result status="unknown" steps="252"/></proof>
+   </goal>
+   <goal name="WP_parameter def.21.5" expl="postcondition">
+   <proof prover="3" timelimit="1" obsolete="true"><result status="failure"/></proof>
+   </goal>
+  </transf>
+  </goal>
+  <goal name="WP_parameter def.21">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3"><result status="unknown" steps="87"/></proof>
+  </goal>
+  <goal name="WP_parameter def.5">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="10"/></proof>
+  <proof prover="3"><result status="unknown" steps="11547"/></proof>
+  </goal>
+  <goal name="WP_parameter def.16">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="timeout"/></proof>
+  <proof prover="3"><result status="unknown" steps="7558"/></proof>
+  </goal>
+  <goal name="WP_parameter def.7">
+  <proof prover="0"><result status="timeout"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="timeout"/></proof>
+  <proof prover="3"><result status="unknown" steps="8263"/></proof>
+  </goal>
+  <goal name="WP_parameter def.1">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3"><result status="unknown" steps="73"/></proof>
+  </goal>
+  <goal name="WP_parameter def.24">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3"><result status="unknown" steps="86"/></proof>
+  </goal>
+  <goal name="WP_parameter def.18">
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  </goal>
+  <goal name="WP_parameter def.21">
+  <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+  <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3"><result status="unknown" steps="72"/></proof>
+  <transf name="split_disj" >
+   <goal name="WP_parameter def.21.0">
+   <proof prover="2" timelimit="10"><result status="valid" steps="5"/></proof>
+   </goal>
+   <goal name="WP_parameter def.3.0">
+   <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+   <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+   <proof prover="2" timelimit="10"><result status="unknown" steps="83"/></proof>
+   </goal>
+   <goal name="WP_parameter def.27.2">
+   <proof prover="2" timelimit="10"><result status="valid" steps="14"/></proof>
+   </goal>
+   <goal name="WP_parameter def.27.3">
+   <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+   <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+   <proof prover="2" timelimit="10"><result status="unknown" steps="96"/></proof>
+   </goal>
+   <goal name="WP_parameter def.27.0">
+   <proof prover="0" timelimit="10"><result status="unknown"/></proof>
+   <proof prover="1" timelimit="10"><result status="timeout"/></proof>
+   <proof prover="2" timelimit="10"><result status="unknown" steps="81"/></proof>
+   <proof prover="3" timelimit="10"><result status="unknown" steps="81"/></proof>
+   </goal>
+  </transf>
+  </goal>
+  <goal name="WP_parameter def.15">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3"><result status="unknown" steps="72"/></proof>
+  </goal>
+  <goal name="WP_parameter def.8">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3"><result status="unknown" steps="202"/></proof>
+  </goal>
+  <goal name="WP_parameter def.4">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3"><result status="unknown" steps="118"/></proof>
+  </goal>
+  <goal name="WP_parameter def.2">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="unknown" steps="72"/></proof>
+  <proof prover="3"><result status="unknown" steps="72"/></proof>
+  </goal>
+  <goal name="WP_parameter def.2">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="unknown" steps="72"/></proof>
+  <proof prover="3"><result status="unknown" steps="72"/></proof>
+  </goal>
+  <goal name="WP_parameter def.25">
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  </goal>
+  <goal name="WP_parameter def.27">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3"><result status="unknown" steps="72"/></proof>
+  </goal>
+  <goal name="WP_parameter def.25">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3"><result status="unknown" steps="72"/></proof>
+  </goal>
+  <goal name="WP_parameter def.16">
+  <proof prover="0" timelimit="1"><result status="unknown"/></proof>
+  <proof prover="1" timelimit="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3" timelimit="1"><result status="unknown" steps="72"/></proof>
+  </goal>
+  <goal name="WP_parameter def.9">
+  <proof prover="0"><result status="unknown"/></proof>
+  <proof prover="1"><result status="timeout"/></proof>
+  <proof prover="2"><result status="valid" steps="5"/></proof>
+  <proof prover="3"><result status="unknown" steps="72"/></proof>
+  </goal>
+ </transf>
+ </goal>
+</theory>
+</file>
+</why3session>

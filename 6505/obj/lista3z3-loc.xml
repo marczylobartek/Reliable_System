@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 47" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 19" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 2" line=" 14" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 18" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\6505\lista3z3.gpr</vfs_file>
+    <file_marker column=" 47" line=" 8">
+      <vfs_project >C:\Users\marcz\Desktop\Nowoczesne\6505\lista3z3.gpr</vfs_project>
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\6505\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 12">
+      <vfs_project >C:\Users\marcz\Desktop\Nowoczesne\6505\lista3z3.gpr</vfs_project>
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 19">
+      <vfs_project >C:\Users\marcz\Desktop\Nowoczesne\6505\lista3z3.gpr</vfs_project>
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 18" line=" 12">
+      <vfs_project >C:\Users\marcz\Desktop\Nowoczesne\6505\lista3z3.gpr</vfs_project>
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\6505\src\emulator.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

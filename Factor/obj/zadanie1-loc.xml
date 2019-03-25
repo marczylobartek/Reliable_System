@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 12" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 2" line=" 3" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 8" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 9" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 6" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Prime\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 13" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 49" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Factor\zadanie1.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 10">
+      <vfs_project  />
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 11">
+      <vfs_project  />
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Reverse\src\srev.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 12">
+      <vfs_project  />
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 2" line=" 3">
+      <vfs_project  />
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 8">
+      <vfs_project  />
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 9">
+      <vfs_project  />
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Prime\src\prime.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 6">
+      <vfs_project  />
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Prime\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 1">
+      <vfs_project >C:\Users\marcz\Desktop\Nowoczesne\Factor\zadanie1.gpr</vfs_project>
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 13">
+      <vfs_project >C:\Users\marcz\Desktop\Nowoczesne\Factor\zadanie1.gpr</vfs_project>
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 49" line=" 1">
+      <vfs_project >C:\Users\marcz\Desktop\Nowoczesne\Factor\zadanie1.gpr</vfs_project>
+      <vfs_file >C:\Users\marcz\Desktop\Nowoczesne\Factor\src\smallest_factor.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

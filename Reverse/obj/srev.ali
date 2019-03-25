@@ -1,0 +1,31 @@
+V "GNAT Lib v2018"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U srev%b		srev.adb		1cca3d20 NE OO PK
+
+U srev%s		srev.ads		7792002c EE NE OO PK
+
+D srev.ads		20190320234934 7792002c srev%s
+D srev.adb		20190321003142 6b583d0c srev%b
+D system.ads		20180524051738 32a08138 system%s
+X 1 srev.ads
+1K9*SRev 9l5 9e9 2|1b14 19l5 19t9
+3U15*Rev 3=20 2|3b12 17l11 17t14
+3a20 S{string} 6r9 6r41 7r24 7r35 7r42 7r48 7r58 2|3b17 7r28 10r16 11r46
+. 11r66 11r80 11r90 12r18 12r28 12r43 15m11
+7i19 I{integer} 7r37 7r67
+X 2 srev.adb
+7a9 Result{string} 11r73 12m10 15r16
+10i11 I{integer} 11r57 12r37 12r46
+11i41 J{integer} 11r68 11r99
+

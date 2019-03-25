@@ -1,0 +1,22 @@
+V "GNAT Lib v2018"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_DIRECT_BOOLEAN_OPERATORS
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK_05
+
+U smallest_factor%b	factory.adb		cc0eb9e5 NE OO SU
+
+D factory.adb		20190312025254 cc0eb9e5 smallest_factor%b
+D system.ads		20180524051738 32a08138 system%s
+X 1 factory.adb
+2U14*Smallest_Factor 2b14 2=31 2<52 26l5 26t20
+2i31 N{positive} 3r13 4r15 4r32 5r7 6r39 13r18 16r13 20m13 20r18
+2i52 Factor{positive} 4r23 5r17 6r25 13m8 14r21 19m13 20r22
+6i15 J{integer} 6r49
+14i11 J{integer} 16r19 19r23
+
